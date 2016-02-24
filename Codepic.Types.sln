@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codepic.Types", "Codepic.Types\Codepic.Types.csproj", "{3EE92D0A-6A9D-4D76-94FE-9DB182F21017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codepic.Types.Client", "Codepic.Types.Client\Codepic.Types.Client.csproj", "{E400B87E-5760-49BF-A932-ED8D851AF9E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codepic.Types.Tests", "Codepic.Types.Tests\Codepic.Types.Tests.csproj", "{5AE31D3F-9595-4756-BC56-DF7AB9267472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE92D0A-6A9D-4D76-94FE-9DB182F21017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE92D0A-6A9D-4D76-94FE-9DB182F21017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE92D0A-6A9D-4D76-94FE-9DB182F21017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE92D0A-6A9D-4D76-94FE-9DB182F21017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E400B87E-5760-49BF-A932-ED8D851AF9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E400B87E-5760-49BF-A932-ED8D851AF9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E400B87E-5760-49BF-A932-ED8D851AF9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E400B87E-5760-49BF-A932-ED8D851AF9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE31D3F-9595-4756-BC56-DF7AB9267472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE31D3F-9595-4756-BC56-DF7AB9267472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE31D3F-9595-4756-BC56-DF7AB9267472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE31D3F-9595-4756-BC56-DF7AB9267472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
